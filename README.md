@@ -1,6 +1,6 @@
 Olá! Eu sou a Giovana Manuquian
 
--🔎 Buscando: o meu primeiro emprego nessa área
+-🔎 Buscando: o meu primeiro emprego na área
 
 
 -📕 Estudando: Análise e Desenvolvimento de Sistemas
