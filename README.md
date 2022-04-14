@@ -22,8 +22,9 @@ Olá! Eu sou a Giovana Manuquian
   
   <div> 
   <a href = "mailto:gmanuquian@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  <a href="https://www.linkedin.com/in/giovana-manuquian-a4829a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   
   ![Snake animation](https://github.com/Giovana-Manuquian/Giovana-Manuquian/blob/output/github-contribution-grid-snake.svg)
  
+  </div>
