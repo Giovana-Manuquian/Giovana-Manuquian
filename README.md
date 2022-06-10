@@ -16,7 +16,7 @@ Olá! Eu sou a Giovana Manuquian
   <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   <img align="center" alt="GI-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="GI-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="GI-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
   
   ##
