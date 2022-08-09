@@ -1,12 +1,12 @@
 Olá! Eu sou a Giovana Manuquian
 
--🔎 Buscando: o meu primeiro emprego na área
+-🔎 Buscando: o meu primeiro emprego na área;
 
 
--📕 Estudando: Análise e Desenvolvimento de Sistemas
+-📕 Estudando: Análise e Desenvolvimento de Sistemas;
 
 
--😄 Pronomes: ela/dela
+-😄 Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github.com/Giovana-Manuquian">
