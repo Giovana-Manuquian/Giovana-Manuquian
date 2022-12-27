@@ -1,4 +1,4 @@
-Olá! Eu sou a Giovana Manuquian
+Olá! Eu sou Giovana Manuquian
 
 -🔎 Buscando: o meu primeiro emprego na área de TI;
 
