@@ -3,7 +3,7 @@ Olá! Eu sou Giovana Manuquian
 -🔎 Buscando: o meu primeiro emprego na área de TI;
 
 
--📕 Estudando: Análise e Desenvolvimento de Sistemas;
+-📕 Estudando: Análise e Desenvolvimento de Sistemas/Desenvolvedor Full-Stack;
 
 
 -😄 Pronomes: ela/dela.
