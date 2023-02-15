@@ -8,7 +8,7 @@ Olá! Eu sou Giovana Manuquian
 
 -😄 Pronomes: ela/dela.
 
-![Giovana-Manuquian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=midnight_purple_icons=true)
+![Giovana-Manuquian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=nord_icons=true)
 
 <div align="center">
   <a href="https://github.com/Giovana-Manuquian">
