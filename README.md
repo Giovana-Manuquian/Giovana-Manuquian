@@ -2,8 +2,8 @@
 
 <div align="center">
   
--🔎 Buscando: o primeiro emprego na área de TI;
--📕 Estudando: Análise e Desenvolvimento de Sistemas (Universidade Anhembi Morumbi)<br>
+-🔎 Buscando: o primeiro emprego na área de TI;<br>
+-📕 Estudando: Análise e Desenvolvimento de Sistemas (Universidade Anhembi Morumbi);<br>
 -📕 Estudando: Desenvolvedor Full-Stack (SENAI).
 
 </div>
