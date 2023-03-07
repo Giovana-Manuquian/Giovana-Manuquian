@@ -8,15 +8,16 @@ Olá! Eu sou Giovana Manuquian
 
 -😄 Pronomes: ela/dela.
 
+
+
 <div align="center">
-  <a href="https://github.com/professorlozano">
+  <a href="https://github.com/Giovana-Manuquian">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&show_icons=true&theme=radical"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical"/>
 </div>
   
   <a href="https://github.com/Giovana-Manuquian">
     
- </div align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   <img align="center" alt="Gi-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
