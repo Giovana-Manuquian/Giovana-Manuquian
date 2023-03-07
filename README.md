@@ -1,3 +1,9 @@
+<style>
+  h1{
+    color: #1A1B27;
+  }
+</style>
+
 <h1 align="center">Olá! Eu sou Giovana Manuquian</h1>
 
 <div align="center">
