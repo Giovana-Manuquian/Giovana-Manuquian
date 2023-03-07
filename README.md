@@ -1,5 +1,5 @@
 
-<h1 align="center" color: #1A1B27;>Olá! Eu sou Giovana Manuquian</h1>
+<h1 align="center">Olá! Eu sou Giovana Manuquian</h1>
 
 <div align="center">
   
