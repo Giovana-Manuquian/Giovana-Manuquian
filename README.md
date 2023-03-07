@@ -1,11 +1,10 @@
 <h1>Olá! Eu sou Giovana Manuquian</h1>
 
 <div align="center">
--🔎 Buscando: o meu primeiro emprego na área de TI;
+-🔎 Buscando: o primeiro emprego na área de TI;
 
-
--📕 Estudando: Análise e Desenvolvimento de Sistemas/Desenvolvedor Full-Stack;
-
+-📕 Estudando: Análise e Desenvolvimento de Sistemas (Universidade Anhembi Morumbi)
+-📕 Estudando: Desenvolvedor Full-Stack (SENAI);
 
 -😄 Pronomes: ela/dela.
 </div>
