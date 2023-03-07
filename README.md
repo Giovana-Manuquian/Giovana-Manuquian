@@ -1,5 +1,6 @@
 <h1>Olá! Eu sou Giovana Manuquian</h1>
 
+<div align="center">
 -🔎 Buscando: o meu primeiro emprego na área de TI;
 
 
@@ -7,7 +8,7 @@
 
 
 -😄 Pronomes: ela/dela.
-
+</div>
 
 
 <div align="center">
