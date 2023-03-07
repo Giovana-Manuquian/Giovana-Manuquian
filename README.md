@@ -18,7 +18,8 @@ Olá! Eu sou Giovana Manuquian
   
   <a href="https://github.com/Giovana-Manuquian">
     
-  <div style="display: inline_block"><br>
+<!--  <div style="display: inline_block"><br>  -->
+  <div style="display: center"><br>
   <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   <img align="center" alt="Gi-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Gi-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
