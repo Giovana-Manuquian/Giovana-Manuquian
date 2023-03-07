@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/Giovana-Manuquian">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
 </div>
   
   <a href="https://github.com/Giovana-Manuquian">
