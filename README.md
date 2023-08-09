@@ -34,7 +34,10 @@
   <a href="https://www.linkedin.com/in/giovana-manuquian-a4829a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!-- Adicionando a cobrinha do Git -->
+<!-- Adicione este link para o gráfico de contribuições do GitHub -->
 <div align="center">
-  <img src="https://github.com/Giovana-Manuquian/Giovana-Manuquian/blob/output/github-contribution-grid-snake.svg">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
+  </p>
 </div>
+
