@@ -11,15 +11,18 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Giovana-Manuquian" style="display: flex;">
+  <div style="display: flex; align-items: center;">
     <div align="left">
-      <p align="left">
+      <a href="https://github.com/Giovana-Manuquian">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
-      </p>
+      </a>
     </div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
-  </a>
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
+    </div>
+  </div>
 </div>
+
   
 <div align="center"><br>
   <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
