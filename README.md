@@ -4,8 +4,10 @@
 <div align="center">
   
 -🔎 Buscando: o primeiro emprego na área de TI;<br>
--📕 Estudando: Análise e Desenvolvimento de Sistemas (Universidade Anhembi Morumbi);<br>
--📕 Estudando: Programação JAVA (SENAI).
+-📕: Análise e Desenvolvimento de Sistemas (Anhembi Morumbi);<br>
+-📕: Programação JAVA (SENAI).
+-🎓📚✅: Desenvolvedor Full-Stack (SENAI)
+-🎓📚✅: Publicidade (ITB)
 
 </div>
 
