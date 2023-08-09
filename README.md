@@ -13,7 +13,12 @@
 
 <div align="center">
   <a href="https://github.com/Giovana-Manuquian">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&show_icons=true&theme=tokyonight"/>
+ <!-- Adicione este link para o gráfico de contribuições do GitHub -->
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
+  </p>
+</div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
 </div>
   
@@ -32,12 +37,5 @@
 <div align="center"> 
   <a href = "mailto:gmanuquian@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovana-manuquian-a4829a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<!-- Adicione este link para o gráfico de contribuições do GitHub -->
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
-  </p>
 </div>
 
