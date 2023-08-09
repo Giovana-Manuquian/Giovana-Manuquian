@@ -13,9 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Giovana-Manuquian">
- <!-- Adicione este link para o gráfico de contribuições do GitHub -->
-<div align="center">
-  <p align="center">
+<div align="left">
+  <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
   </p>
 </div>
