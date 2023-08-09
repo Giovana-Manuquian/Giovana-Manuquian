@@ -11,17 +11,18 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <div align="left">
+  <div style="display: flex; justify-content: center; align-items: flex-start;">
+    <div style="align-self: flex-start;">
       <a href="https://github.com/Giovana-Manuquian">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
       </a>
     </div>
-    <div style="margin-left: 20px;">
+    <div style="align-self: center; margin-left: 20px;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
     </div>
   </div>
 </div>
+
 
 
   
