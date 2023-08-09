@@ -5,8 +5,8 @@
   
 -🔎 Buscando: o primeiro emprego na área de TI;<br>
 -📕: Análise e Desenvolvimento de Sistemas (Anhembi Morumbi);<br>
--📕: Programação JAVA (SENAI).
--🎓📚✅: Desenvolvedor Full-Stack (SENAI)
+-📕: Programação JAVA (SENAI).<br>
+-🎓📚✅: Desenvolvedor Full-Stack (SENAI)<br>
 -🎓📚✅: Publicidade (ITB)
 
 </div>
