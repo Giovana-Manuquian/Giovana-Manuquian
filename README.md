@@ -10,23 +10,17 @@
 
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-      <a href="https://github.com/Giovana-Manuquian">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
-      </a>
-    </div>
-    <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
-    </div>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1;">
+    <a href="https://github.com/Giovana-Manuquian">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight" alt="GitHub Streak">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
   </div>
 </div>
 
-
-
-
-  
 <div align="center"><br>
   <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   <img align="center" alt="Gi-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
