@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-     <div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight"/>
     </div>
     <div>
