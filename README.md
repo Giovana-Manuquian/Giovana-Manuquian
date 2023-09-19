@@ -5,6 +5,7 @@
 -🔎: Primeiro emprego na área de TI;<br>
 -📕: Análise e Desenvolvimento de Sistemas (Anhembi Morumbi);<br>
 -📕: Programação JAVA (SENAI).<br>
+-📕: Programação PYTHON (SENAI).<br>
 -🎓📚✅: Desenvolvedor Full-Stack (SENAI)<br>
 -🎓📚✅: Publicidade (ITB)
 
