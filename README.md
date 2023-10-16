@@ -8,16 +8,10 @@
 
 ###
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="self"/></a>
-
-🤓 **▸ Your daily dev inspiration:**
-
-  <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
 💬 **▸ Socials & Contacts:**
 
-<a href = "mailto:gmanuquian@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-<a href="https://www.linkedin.com/in/giovana-manuquian-a4829a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovana-manuquian-a4829a188)
+  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmanuquian@gmail.com)
 
 ## Education
 
