@@ -18,7 +18,7 @@
 ###
 
   <a href="https://portal.anhembi.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/211fe221-c8bf-4494-8237-ac7c65478212)
-" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
+" align="left" width="94" height="94" alt="ANHEMBI-pic"/></a>
   **Universidade Anhembi Morumbi** \
   Graduation in System Analysis and Development \
   <i>Apr. 2021</i> - <i>Dec. 2023</i>
@@ -26,7 +26,7 @@
   <br>
 
   <a href="https://jandira.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/cebe0e36-b6c7-4a6b-bf3a-01fb68a9a528)
-" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Java Programmation \
   <i>Sep. 2023</i> - <i>Dec. 2023</i>
@@ -34,7 +34,7 @@
   <br>
 
   <a href="https://jandira.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/6b1b73d8-13dd-45bb-b46d-6bcb38694db7)
-" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Python Programmation \
   <i>Oct. 2023</i> - <i>Nov. 2023</i>
@@ -42,7 +42,7 @@
   <br>
 
   <a href="https://www.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/0b718adb-d148-43c0-966e-7f2e17ef4cfd)
-" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI** \
   Full-Stack Developer \
   <i>May. 2022</i> - <i>May. 2023</i>
