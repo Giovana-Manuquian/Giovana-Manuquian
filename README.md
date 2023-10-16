@@ -58,7 +58,7 @@
   <img align="center" alt="Gi-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
 
->> Inspired by [Athirson's]([https://github.com/Andreyrvs](https://github.com/AthirsonSilva) "Click Me") awesome profile
+<!-- Inspired by [Athirson's](https://github.com/AthirsonSilva) awesome profile -->
 
 <br>
 
