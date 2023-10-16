@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Giovana,+and+I+am+a+Full-Stack+Dev!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Giovana,+and+I+am+a+Full-Stack+Dev.)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical) | ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
