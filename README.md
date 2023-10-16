@@ -48,16 +48,14 @@
 
 ## Technologies and tools
 
->º
-> JAVA <img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />;
-> PYTHON;
-> JavaScript;
-> ReactJs;
-> HTML;
-> CSS;
-> Figma;
-> Canva.
->º
+- JAVA <img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+- Python <img align="center" alt="Gi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+- JavaScript <img align="center" alt="Gi-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+- ReactJs <img align="center" alt="Gi-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+- Canva <img align="center" alt="Gi-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+- Figma <img align="center" alt="Gi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+- CSS <img align="center" alt="Gi-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
 
 <br>
 
