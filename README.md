@@ -25,7 +25,7 @@
   
   <br>
 
-  <a href="https://jandira.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Java Programmation \
   <i>Sep. 2023</i> - <i>Dec. 2023</i>
