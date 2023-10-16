@@ -49,7 +49,7 @@
 ## Technologies and tools
 
 >º
-> JAVA;
+> JAVA <img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />;
 > PYTHON;
 > JavaScript;
 > ReactJs;
