@@ -58,6 +58,8 @@
   <img align="center" alt="Gi-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
 
+>> Inspired by [Athirson's]([https://github.com/Andreyrvs](https://github.com/AthirsonSilva) "Click Me") awesome profile
+
 <br>
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=28&duration=3500&pause=1500&color=F7F7F7&background=FFFFFF00&vCenter=true&width=1000&lines=👋+Thanks+for+visiting.+See+you+around!)
