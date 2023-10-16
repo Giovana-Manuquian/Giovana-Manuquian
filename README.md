@@ -17,8 +17,7 @@
 
 ###
 
-  <a href="https://portal.anhembi.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/211fe221-c8bf-4494-8237-ac7c65478212)
-" align="left" width="94" height="94" alt="ANHEMBI-pic"/></a>
+  <a href="https://portal.anhembi.br/"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/bb/22/74/bb2274be-323b-062d-8d37-409596aeefb3/source/512x512bb.jpg" align="left" width="94" height="94" alt="ANHEMBI-pic"/></a>
   **Universidade Anhembi Morumbi** \
   Graduation in System Analysis and Development \
   <i>Apr. 2021</i> - <i>Dec. 2023</i>
@@ -32,14 +31,14 @@
 
   <br>
 
-  <a href="https://jandira.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Python Programmation \
   <i>Oct. 2023</i> - <i>Nov. 2023</i>
 
   <br>
 
-  <a href="https://www.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://www.sp.senai.br/"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png](https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj)" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI** \
   Full-Stack Developer \
   <i>May. 2022</i> - <i>May. 2023</i>
