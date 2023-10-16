@@ -25,24 +25,21 @@
   
   <br>
 
-  <a href="https://jandira.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/cebe0e36-b6c7-4a6b-bf3a-01fb68a9a528)
-" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Java Programmation \
   <i>Sep. 2023</i> - <i>Dec. 2023</i>
 
   <br>
 
-  <a href="https://jandira.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/6b1b73d8-13dd-45bb-b46d-6bcb38694db7)
-" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Python Programmation \
   <i>Oct. 2023</i> - <i>Nov. 2023</i>
 
   <br>
 
-  <a href="https://www.sp.senai.br/"><img src="![image](https://github.com/Giovana-Manuquian/Giovana-Manuquian/assets/103048833/0b718adb-d148-43c0-966e-7f2e17ef4cfd)
-" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://www.sp.senai.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI** \
   Full-Stack Developer \
   <i>May. 2022</i> - <i>May. 2023</i>
