@@ -24,21 +24,21 @@
 
   <br>
   
-  <a href="https://jandira.sp.senai.br/"><img src="https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4WLuaYoLKyjxBKPoTkaqm4A5oLY4j00T3w&s" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI** \
   Full-Stack Developer \
   <i>May. 2022</i> - <i>May. 2023</i>
   
   <br>  
 
-  <a href="https://www.sp.senai.br/"><img src="https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://www.sp.senai.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4WLuaYoLKyjxBKPoTkaqm4A5oLY4j00T3w&s" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Java Programmation \
   <i>Sep. 2023</i> - <i>Dec. 2023</i>
 
   <br>
 
-  <a href="https://jandira.sp.senai.br/"><img src="https://yt3.googleusercontent.com/CtLABW19pvsUQBevGUun2y2AoHPrh9I3SkJq4dEXaMQsI8IBgvZ26Wcuyd7PYZdrWbhRAX6SObs=s900-c-k-c0x00ffffff-no-rj" align="left" width="94" height="94" alt="SENAI-pic"/></a>
+  <a href="https://jandira.sp.senai.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4WLuaYoLKyjxBKPoTkaqm4A5oLY4j00T3w&s" align="left" width="94" height="94" alt="SENAI-pic"/></a>
   **SENAI Jandira** \
   Python Programmation \
   <i>Oct. 2023</i> - <i>Nov. 2023</i>
