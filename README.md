@@ -6,7 +6,7 @@
 
 | GitHub Streak | Profile Details |
 |:-------------:|:---------------:|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Giovana-Manuquian&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=radical) |
 
 <br>
 
