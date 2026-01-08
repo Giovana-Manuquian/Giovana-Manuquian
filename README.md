@@ -1,12 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Giovana,+and+I+am+a+Full-Stack+Dev.)
 
-| Languages | GitHub Stats |
-|:---------:|:------------:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical" alt="Github Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true" alt="Giovana's GitHub stats" /> |
+<p align="center">
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=Giovana-Manuquian&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Giovana's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical" alt="Github Top Langs" height="170px" />
+</p>
 
-| GitHub Streak | Profile Details |
-|:-------------:|:---------------:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical" alt="GitHub Streak" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=radical" alt="GitHub Details" /> |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical" alt="GitHub Streak" height="170px" />
+</p>
 
 <br>
 
