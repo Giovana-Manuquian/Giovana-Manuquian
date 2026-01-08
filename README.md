@@ -2,11 +2,11 @@
 
 | Languages | GitHub Stats |
 |:---------:|:------------:|
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical) | ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical" alt="Github Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true" alt="Giovana's GitHub stats" /> |
 
 | GitHub Streak | Profile Details |
 |:-------------:|:---------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=radical) |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical" alt="GitHub Streak" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=radical" alt="GitHub Details" /> |
 
 <br>
 
