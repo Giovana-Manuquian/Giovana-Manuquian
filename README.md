@@ -2,7 +2,7 @@
 
 | Languages | GitHub Stats |
 |:---------:|:------------:|
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical) | ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true) |
+| ![Github Top Langs](https://github-readme-stats-git-masterhst-lct.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical&hide_langs_below=1) | ![Giovana's GitHub stats](https://github-readme-stats-git-masterhst-lct.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true&include_all_commits=true) |
 
 | GitHub Streak | Profile Details |
 |:-------------:|:---------------:|
@@ -63,7 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32" title="Canva"/>
 </p>
-
 
 ---
 
