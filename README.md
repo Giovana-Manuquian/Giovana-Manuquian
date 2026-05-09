@@ -2,11 +2,11 @@
 
 | Languages | GitHub Stats |
 |:---------:|:------------:|
-| ![Github Top Langs](https://github-readme-stats-git-masterhst-lct.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=radical&hide_langs_below=1) | ![Giovana's GitHub stats](https://github-readme-stats-git-masterhst-lct.vercel.app/api?username=Giovana-Manuquian&theme=radical&show_icons=true&count_private=true&include_all_commits=true) |
+| ![Github Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Giovana-Manuquian&layout=compact&theme=tokyonight&hide_langs_below=1) | ![Giovana's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Giovana-Manuquian&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) |
 
 | GitHub Streak | Profile Details |
 |:-------------:|:---------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=radical) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=radical) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giovana-Manuquian&theme=tokyonight) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Manuquian&theme=tokyonight) |
 
 <br>
 
